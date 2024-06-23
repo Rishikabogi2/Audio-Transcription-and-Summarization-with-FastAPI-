@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+whisper
+transformers
+librosa
+torch
+numpy
